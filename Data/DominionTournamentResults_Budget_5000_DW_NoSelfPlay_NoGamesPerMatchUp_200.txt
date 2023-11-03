@@ -1,0 +1,11 @@
+Game: Dominion, Players: 2, GamesPerMatchup: 200, Mode: NO_SELF_PLAY
+MCTS_HighBudget got 205.50 points. MCTS_HighBudget won 49.0% of the 400 games of the tournament. MCTS_HighBudget won 49.0% of the 400 games it played during the tournament.
+MCTS_HighBudget won 49.0% of the 400 games against DoubleWitch.
+
+DoubleWitch got 194.50 points. DoubleWitch won 46.3% of the 400 games of the tournament. DoubleWitch won 46.3% of the 400 games it played during the tournament.
+DoubleWitch won 46.3% of the 400 games against MCTS_HighBudget.
+
+---- Ranking ---- 
+MCTS_HighBudget: Win rate 0.51 +/- 0.01	Mean Ordinal 1.46 +/- 0.01
+DoubleWitch: Win rate 0.49 +/- 0.01	Mean Ordinal 1.49 +/- 0.01
+
