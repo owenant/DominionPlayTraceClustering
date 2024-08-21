@@ -1,6 +1,6 @@
 The notebook in this repository is used to analyse and cluster Dominion playtraces generated using code in owenant/DominionPlayerLogs repo or using the TableTop Games Framework. 
 The code clusters playtraces using K-Means, K-Medoids, DBSCAN and Spectral Clustering in order to identify different player strategies.
 
-This code is mainly used ot genearte the results in the paper DominionPlayTraceClustering.pdf, also included in this repo.
+This code is mainly used to generate the results in the paper DominionPlayTraceClustering.pdf, also included in this repo.
 
 
